@@ -1,0 +1,38 @@
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.exe.config
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.exe
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.pdb
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csprojResolveAssemblyReference.cache
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Form1.resources
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.Cache
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.exe
+F:\17-18 HKII\17610SP2\LT HDT\Code\Buoi07_TinhToan2\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.pdb
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.exe.config
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.exe
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.pdb
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.exe
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.pdb
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csprojResolveAssemblyReference.cache
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Form1.resources
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
+F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.Cache
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.exe.config
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.exe
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.pdb
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csprojAssemblyReference.cache
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Form1.resources
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.cache
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.CoreCompileInputs.cache
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.exe
+D:\Docs\HCMUTE\Software Testing\C05\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.pdb
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.exe.config
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.exe
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\bin\Debug\Buoi07_TinhToan3.pdb
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.AssemblyReference.cache
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Form1.resources
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.cache
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.exe
+C:\Users\tadeo\OneDrive\Máy tính\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.pdb

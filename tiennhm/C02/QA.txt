@@ -1,0 +1,52 @@
+___________NHÓM 3________________
+18110285 - Nguyễn Thị Minh Hoàng
+18110371 - Trần Ngọc Minh Thiện
+18110377 - Nguyễn Huỳnh Minh Tiến
+18110402 - Lê Thị Ngọc Yến
+_________________________________
+
+
+# 1. Những phẩm chất, kỹ năng nào là cần thiết đối với một Tester?
+
+
+- Những phẩm chất cần thiết:
+    + 1. Tư duy sáng tạo: Các chuyên gia kiểm thử cần có khả năng liên tưởng được cách người dùng có thể làm những việc mà chắc chắn không được nêu trong các yêu cầu phần mềm, hoặc các trường hợp dẫn đến họ có thể sử dụng phần mềm sai mục đích.
+    + 2. Kỹ năng phân tích: Để phân tích yêu cầu và để hiểu phản hồi của khách hàng trong khi xác định chiến lược kiểm tra. Đây là điều bắt buộc để có được cái nhìn sâu sắc, nhằm xây dựng các giải pháp thử nghiệm thông minh.
+    + 3. Tính tò mò: Người tò mò thường sẽ suy nghĩ thấu đáo, để có thể xác định các vấn đề trong những lĩnh vực mà người khác thậm chí không thể nghĩ đến để xem xét.
+    + 4. Biết lắng nghe: Phải biết rằng luôn có chỗ để cải thiện, phải chú ý xem có ai đang đưa ra bất kỳ ý tưởng hoặc ngụ ý nào không, vì điều này chắc chắn sẽ giúp họ cải thiện chất lượng của chương trình phần mềm đang được thử nghiệm. Bạn có thể tìm ra một số tình huống mà những người khác có thể bỏ lỡ nếu họ không chú ý.
+    + 5. Tích cực, đam mê: Trách nhiệm của một người kiểm thử giỏi không chỉ là xác nhận các chương trình phần mềm theo các yêu cầu đã đặt ra, mà còn luôn đam mê công việc của họ và đưa ra các đề xuất để cải thiện sản phẩm.
+    + 6. Khả năng học nhanh: Họ phải quen thuộc với công nghệ, luôn cởi mở để học hỏi các công cụ tự động hóa mới, cập nhật công nghệ mới nhất, sử dụng các kỹ thuật mới nhất trong khi thử nghiệm, học hỏi kinh nghiệm để đưa ra những ý tưởng mới.
+    + 7. Kiến thức nền tảng: Để thực hiện một phiên kiểm thử thành công và thiết kế các bài kiểm tra hiệu quả. Họ phải có cái nhìn sâu sắc về cách người dùng cuối sẽ khai thác chương trình. Họ cũng phải dành thời gian để hiểu thuật ngữ và giúp đưa ra các tình huống kinh doanh chiến lược.
+    + 8. Hướng đến khách hàng: Phải luôn cố gắng làm cho khách hàng của họ hài lòng. Họ phải hiểu rằng khách hàng không có kỹ năng kỹ thuật giống như người kiểm thử. Khách hàng có thể không có kiến ​​thức chuyên môn về công nghệ và không thể bao quát hết các trường hợp có thể xảy ra khi sử dụng ứng dụng. Vì vậy cần phải lưu ý đến suy nghĩ của khách hàng trong khi cung cấp sản phẩm mà khách hàng thực sự yêu cầu.
+    + 9. Kiểm tra tự động hóa và kiến ​​thức kỹ thuật: Phải có kiến ​​thức kỹ thuật tốt để xác định kiểm tra nào phải được tự động hóa ở lớp nào, thực hiện kiểm tra trên cơ sở liên tục, sử dụng tính sẵn có của các công cụ kiểm tra khác nhau, cung cấp các số liệu đáng giá cho tổ chức và lựa chọn phù hợp và mới nhất Bộ công cụ để giúp nỗ lực kiểm tra.
+    + 10. Khả năng tổ chức và ưu tiên: Một người kiểm thử giỏi phải có khả năng xác định và tổ chức các thử nghiệm thiết yếu trước và sau đó ưu tiên thực hiện dựa trên mức độ liên quan của thử nghiệm. Ngoài ra, trong khi đánh giá các nỗ lực kiểm tra, những người kiểm tra giỏi phải xem xét lịch sử khiếm khuyết (defect).
+    + 11. Khả năng giao tiếp: Họ phải có khả năng giao tiếp tốt với những người chuyên về kỹ thuật và không chuyên. Họ cũng phải có khả năng giao tiếp hiệu quả bằng văn bản hoặc bằng lời nói và truyền đạt chi tiết của một vấn đề cho nhóm phát triển. Tài liệu step by step tốt để tái tạo khiếm khuyết (defect) giúp các nhà phát triển tập trung nỗ lực vào việc khắc phục sự cố hơn là giao tiếp qua lại.
+    + 12. Khả năng Báo cáo: Phải giỏi báo cáo tình trạng hiện tại vào cuối ngày, cung cấp báo cáo lỗi hiệu quả và chi tiết, đồng thời đính kèm ảnh chụp màn hình nếu có thể cùng với báo cáo.
+    + 13. Chú ý đến chi tiết: Phẩm chất rất hữu ích khi xác định các logic nghiệp vụ phức tạp và đảm bảo bao quát tất cả các tình huống được đề cập. Nó cũng giúp tránh bị phạt hoặc chi phí cao hơn để sửa chữa các khuyết tật (defect) được phát hiện muộn trong chu kỳ hoặc sau khi phát hành.
+    + 14. Định hướng kinh doanh: Một người kiểm thử phần mềm giỏi phải có khả năng hiểu phần mềm từ quan điểm kinh doanh, đánh giá cao các yêu cầu của khách hàng, có khả năng hiểu mọi người từ quan điểm phi kỹ thuật, đồng thời phải có khả năng hiểu các vấn đề kinh doanh có thể được chuyển đổi thành các giải pháp kỹ thuật như thế nào.
+    + 15. Thông minh: Họ phải đủ thông minh để sử dụng khả năng logic của mình, để hoạt động trong môi trường thử nghiệm cấp cao. Họ phải có khả năng khắc phục sự cố gốc rễ của vấn đề và giải quyết nó theo cách tốt nhất có thể.
+    + 16. Khả năng quan sát giỏi: Theo dõi các hạng mục nhỏ cũng như các hạng mục liên quan đến dự án lớn đang được thảo luận là cực kỳ quan trọng đối với một người kiểm thử giỏi, để có thể tiếp cận tác động của thay đổi và luôn cập nhật các thay đổi.
+    + 17. Khả năng quản lý thời gian tốt: Hầu hết các nhóm sẽ bị hạn chế bởi lượng thời gian có sẵn để phát triển và thử nghiệm. Vì vậy, cần hiểu mức độ ưu tiên và quản lý tốt thời gian. Cần biết điều gì phải được kiểm tra và điều gì phải được ưu tiên ít hơn. Nhiệm vụ nào phải được thực hiện trước và công việc nào có thể thực hiện sau cùng, công việc nào phải được tự động hóa và công việc nào phải được kiểm tra thủ công. Tài liệu quan trọng như thế nào so với việc thực thi trường hợp thử nghiệm, trong thời gian nhất định? Họ phải có khả năng trả lời những câu hỏi này và những câu hỏi khác và giúp người quản lý của họ đưa ra quyết định đúng đắn.
+    + 18. Sự kiên trì, không bao giờ bỏ cuộc, đủ kiên nhẫn để tìm ra càng nhiều lỗi càng tốt.
+    + 19. Khả năng Xác định và Quản lý Rủi ro: Họ phải có khả năng hiểu quy trình quản lý rủi ro phù hợp - xác định rủi ro, phân tích rủi ro và giảm thiểu rủi ro. Kiểm thử phần mềm phải dựa trên việc kết hợp các quy trình kiểm thử theo hướng rủi ro.
+    + 20. Định hướng chất lượng: Các chuyên gia phần mềm giỏi không thỏa hiệp về chất lượng trong bất kỳ giai đoạn thử nghiệm nào. Kết quả theo định hướng chất lượng luôn dẫn đến phần mềm không có lỗi và đảm bảo chất lượng hàng đầu.
+    + 21. Khả năng làm việc trong nhóm: Người kiểm thử phần mềm phải có khả năng làm việc tốt trong và ngoài nhóm. Trao đổi ý tưởng, kiến ​​thức, kinh nghiệm và suy nghĩ có thể nâng cao chất lượng và hiệu quả của giải pháp, vì vậy những người thử nghiệm giỏi phải luôn mong muốn phối hợp tốt với các thành viên trong nhóm của họ và các nhóm khác.
+
+
+- Những kỹ năng cần thiết:
+    + Kỹ năng phân tích
+    + Kiến thức căn bản về máy tính
+    + Kiến thức về lập trình
+    + Kiến thức tổng quan về test
+
+
+# 2. Con đường thăng tiến của Tester như thế nào?
+- Cấp độ 1: Test Executor, mức độ junior, hiểu và thực thi các test case và báo cáo các bugs nếu có. Thông thường, một junior tester thường có dưới 2 năm kinh nghiệm. Các dự án rất đa dạng và được phân công theo nhóm và bao gồm các nhiệm vụ sau:
+    1. Thực hiện kiểm tra phần mềm
+    2. Báo cáo lỗi (bugs) hoặc khiếm khuyến (Defects) của phần mềm.
+    3. Thiết kế các test cases đơn giản
+    4. Thỉnh thoảng trợ giúp về các hoạt động đảm bảo chất lượng khác
+- Cấp độ 2: Test Designer, là những người vận dụng các kỹ thuật về test design, phân tích chuyên sâu và quản lý testing metrics. Cho những ai chưa nắm rõ, tesing metrics là phương thức đo lường định lượng, giúp đánh giá được tiến độ, chất lượng của việc kiểm thử.  
+- Cấp độ 3: Senior Testor, là những chuyên gia về kỹ thuật testing, nắm rõ các yêu cầu kiểm thử phần mềm cho các doanh nghiệp có các ứng dụng phức tạp như tài chính, sức khỏe, thương mại điện tử…
+- Cấp độ 4: Technical Tester, là những chuyên gia về Kiểm thử tự động (test automation), Kiểm thử hiệu suất (performance testing), hoặc Kiểm tra Bảo Mật (Security Testing)…
+- Cấp độ 5: Test Manager, là những người tổ chức và điều phối các nhóm kiểm thử (test team): quản lý metrics, lập kế hoạch chiến lược và đưa ra dự đoán.
